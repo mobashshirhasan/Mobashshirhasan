@@ -59,7 +59,7 @@
 
 
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="oracle" width="40" height="40"/>
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg](https://www.svgrepo.com/show/448245/oracle.svg)" alt="oracle" width="40" height="40"/>
   </a>
 </p>
 
