@@ -1,11 +1,11 @@
 <h1 align="center"> Hi, I'm Mobashshir Hasan! Great to see you here! 👋</h1>
-<h3 align="center">A Passionate Python developer from India</h3>
+<h3 align="center">A Passionate Oracle Apex Developer from India</h3>
 
 <img align="right" alt="coding" width="500" src="https://institute.careerguide.com/wp-content/uploads/2020/09/focus-animation_bcba3d519ff8406664b93fe49a8fa2e8.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mobashshirhasan&label=Profile%20views&color=0e75b6&style=flat" alt="mobashshirhasan " /> </p>
 
-- 🔭 I’m currently working on **Chatbots** , **RAG Implementation** , **AI Agents** , **Multi-Agents**  **AI Tools**.
+- 🔭 I’m currently working on **Oracle Apex** , **PL/SQL** , **SQL** , **Oracle Forms**  **Oracle Reports**.
 
 - 📫 How to reach me **mobashshir12@gmail.com**
 
