@@ -25,9 +25,15 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  </a>
+ <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://github.com/user-attachments/assets/6dfe1982-4704-4cda-ab25-fd931c364988"
+    alt="flask"
+    width="40"
+    height="40"
+  />
+</a>
+
 
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
@@ -60,7 +66,6 @@
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
   <img src="https://www.svgrepo.com/show/448245/oracle.svg" alt="oracle" width="40" height="40"/>
 </a>
->
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mobashshirhasan&show_icons=true&locale=en&layout=compact" alt="mobashshirhasan" /></p>
