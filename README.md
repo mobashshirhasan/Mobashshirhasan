@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Oracle Apex** , **PL/SQL** , **SQL** , **Oracle Forms** , **Oracle Reports**.
 
-- 📫 How to reach me **mobashshir12@gmail.com**
+- 📫 How to reach me **mobashshir.dev12@gmail.com**
 
 <h3 align="left"> Connect with me : </h3>
 <p align="left">
