@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mobashshirhasan&label=Profile%20views&color=0e75b6&style=flat" alt="mobashshirhasan " /> </p>
 
-- 🔭 I’m currently working on **Oracle Apex** , **PL/SQL** , **SQL** , **Oracle Forms** , **Oracle Reports**.
+- 🔭 I’m currently working on **Oracle Apex** , **PL/SQL** , **SQL** , **Oracle Forms** , **Oracle Reports** ,**Custom Authorization/Authentication**, **Report Customization**, **APEX Collection**, **Dynamic Actions**, **Apex Plugins**, **REST Services**.
 
 - 📫 How to reach me **mobashshir.dev12@gmail.com**
 
